@@ -1,0 +1,12 @@
+[
+  "data-platform-api-station-creates-rmq-kube",
+  "data-platform-api-railway-line-creates-rmq-kube",
+  "data-platform-api-planned-train-operation-reads-rmq-kube",
+  "data-platform-api-planned-train-operation-creates-rmq-kube",
+  "data-platform-api-station-train-time-table-reads-rmq-kube",
+  "data-platform-api-instagram-initial-auth-requests-rmq-kube",
+  "data-platform-api-instagram-auth-key-requests-rmq-kube",
+  "data-platform-api-instagram-access-token-requests-rmq-kube",
+  "data-platform-api-instagram-user-info-requests-rmq-kube",
+  "data-platform-api-instagram-user-media-requests-rmq-kube"
+]

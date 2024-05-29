@@ -1,0 +1,7 @@
+[
+  "data-platform-kubernetes-configmap",
+  "data-platform-kubernetes-secret",
+  "ui-frontend-for-point-apps-smartphone",
+  "ui-frontend-for-data-platform-smartphone",
+  "authorization-test"
+]

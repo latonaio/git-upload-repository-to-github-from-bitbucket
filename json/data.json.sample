@@ -1,0 +1,36 @@
+{
+  "bitbucket": {
+    "org": "latonaio"
+  },
+  "excludeFiles": [
+    "^\\.",
+    "db",
+    "s3",
+    "env",
+    "tmp",
+    "docker-compose.yaml",
+    "env.json",
+    "private.pem",
+    "public.pem",
+    "export",
+    "export",
+    "export",
+    "env",
+    "docker",
+    ".env",
+    "kibana",
+    "dist"
+  ],
+  "directories": [
+    "data-platform-api-station-creates-rmq-kube",
+    "data-platform-api-railway-line-creates-rmq-kube",
+    "data-platform-api-planned-train-operation-reads-rmq-kube",
+    "data-platform-api-planned-train-operation-creates-rmq-kube",
+    "data-platform-api-station-train-time-table-reads-rmq-kube",
+    "data-platform-api-instagram-initial-auth-requests-rmq-kube",
+    "data-platform-api-instagram-auth-key-requests-rmq-kube",
+    "data-platform-api-instagram-access-token-requests-rmq-kube",
+    "data-platform-api-instagram-user-info-requests-rmq-kube",
+    "data-platform-api-instagram-user-media-requests-rmq-kube"
+  ]
+}

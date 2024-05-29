@@ -1,0 +1,10 @@
+[
+  {
+    "bitbucketRepositoryName": "data-platform-api-google-account-initial-auth-requests-rmq-kube",
+    "bitbucketRepositoryUrl": "data-platform-api-google-account-initial-auth-requests-rmq"
+  },
+  {
+    "bitbucketRepositoryName": "data-platform-api-google-account-access-token-requests-rmq-kube",
+    "bitbucketRepositoryUrl": "data-platform-api-google-account-access-token-requests-rmq"
+  }
+]
